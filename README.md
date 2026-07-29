@@ -67,7 +67,7 @@ Async-first Python and framework-level tooling. FastAPI + SQLModel for CRUD; DDD
 Former Web3 technical co-founder; built wallet infrastructure and the primitives underneath it.
 
 - **[coinaddr](https://github.com/joeblackwaslike/coinaddr)** ⭐ — Cryptocurrency address inspection &amp; validation for Python.
-- **[btcpay-python](https://github.com/joeblackwaslike/btcpay-python)** — The **first &amp; canonical Python SDK** for BTCPay Server.
+- **[btcpay-python](https://github.com/btcpayserver/btcpay-python)** ⭐ — The **first &amp; canonical Python SDK** for BTCPay Server, adopted into the official BTCPayServer org.
 - **[base58check](https://github.com/joeblackwaslike/base58check)** ⭐ — Base58Check encoding/decoding.
 - **[docker-geth](https://github.com/joeblackwaslike/docker-geth)** — Dockerized Geth + Swarm (Ethereum) node wrappers.
 
