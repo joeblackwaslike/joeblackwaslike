@@ -144,3 +144,4 @@ Former Web3 technical co-founder; built wallet infrastructure and the primitives
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45e1ed,55:15808a,100:0a0c0d&height=120&section=footer" alt="" width="100%" />
 
 </div>
+
