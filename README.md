@@ -11,10 +11,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/joeblack.nyc-15808A?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0a0c0d)](https://joeblack.nyc)
-[![Email](https://img.shields.io/badge/me@joeblack.nyc-0f626a?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0a0c0d)](mailto:me@joeblack.nyc)
-[![X](https://img.shields.io/badge/@joeblackwaslike-0a0c0d?style=for-the-badge&logo=x&logoColor=45e1ed)](https://x.com/joeblackwaslike)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0c0d)](https://www.linkedin.com/in/joeblack949)
+[![Website](https://img.shields.io/badge/joeblack.nyc-15808A?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0a0c0d)](https://joeblack.nyc) [![Email](https://img.shields.io/badge/me@joeblack.nyc-0f626a?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0a0c0d)](mailto:me@joeblack.nyc) [![X](https://img.shields.io/badge/@joeblackwaslike-0a0c0d?style=for-the-badge&logo=x&logoColor=45e1ed)](https://x.com/joeblackwaslike) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0c0d)](https://www.linkedin.com/in/joeblack949)
 
 </div>
 
@@ -142,9 +139,7 @@ Former Web3 technical co-founder; built wallet infrastructure and the primitives
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/joeblackwaslike?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike)
-[![coinaddr](https://img.shields.io/github/stars/joeblackwaslike/coinaddr?style=for-the-badge&logo=github&logoColor=white&label=coinaddr&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike/coinaddr)
-[![quart-sqlalchemy](https://img.shields.io/github/stars/joeblackwaslike/quart-sqlalchemy?style=for-the-badge&logo=github&logoColor=white&label=quart-sqlalchemy&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike/quart-sqlalchemy)
+[![Followers](https://img.shields.io/github/followers/joeblackwaslike?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike) [![coinaddr](https://img.shields.io/github/stars/joeblackwaslike/coinaddr?style=for-the-badge&logo=github&logoColor=white&label=coinaddr&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike/coinaddr) [![quart-sqlalchemy](https://img.shields.io/github/stars/joeblackwaslike/quart-sqlalchemy?style=for-the-badge&logo=github&logoColor=white&label=quart-sqlalchemy&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike/quart-sqlalchemy)
 
 <!-- OPTIONAL POLISH: self-host github-readme-stats on Vercel, then drop the stats + top-langs cards here pointing at your own instance:
 <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=joeblackwaslike&show_icons=true&count_private=true&hide_border=true&bg_color=0a0c0d&title_color=45e1ed&icon_color=15808a&text_color=e6ecf0" alt="GitHub stats" />
