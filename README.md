@@ -127,8 +127,8 @@ Former Web3 technical co-founder; built wallet infrastructure and the primitives
 [![Followers](https://img.shields.io/github/followers/joeblackwaslike?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike) [![coinaddr](https://img.shields.io/github/stars/joeblackwaslike/coinaddr?style=flat-square&logo=github&logoColor=white&label=coinaddr&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike/coinaddr) [![quart-sqlalchemy](https://img.shields.io/github/stars/joeblackwaslike/quart-sqlalchemy?style=flat-square&logo=github&logoColor=white&label=quart-sqlalchemy&labelColor=0a0c0d&color=15808a)](https://github.com/joeblackwaslike/quart-sqlalchemy)
 
 <!-- OPTIONAL POLISH: self-host github-readme-stats on Vercel, then drop the stats + top-langs cards here pointing at your own instance:
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=joeblackwaslike&show_icons=true&count_private=true&hide_border=true&bg_color=0a0c0d&title_color=45e1ed&icon_color=15808a&text_color=e6ecf0" alt="GitHub stats" />
-<img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=joeblackwaslike&layout=compact&langs_count=8&hide_border=true&bg_color=0a0c0d&title_color=45e1ed&text_color=e6ecf0" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-taupe-psi-61.vercel.app/api?username=joeblackwaslike&show_icons=true&count_private=true&hide_border=true&bg_color=0a0c0d&title_color=45e1ed&icon_color=15808a&text_color=e6ecf0" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-taupe-psi-61.vercel.app/api/top-langs/?username=joeblackwaslike&layout=compact&langs_count=8&hide_border=true&bg_color=0a0c0d&title_color=45e1ed&text_color=e6ecf0" alt="Top languages" />
 -->
 
 </div>
